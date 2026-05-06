@@ -1,6 +1,6 @@
 # Brahim Academy
 
-![Website Preview](images/img-12.avif)
+![Website Preview](images/Screenshot%202026-05-06%20125932.png)
 
 ## Description
 
